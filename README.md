@@ -1,0 +1,1 @@
+just my solutinos to advent of code 2024 for fun
